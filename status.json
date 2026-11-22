@@ -1,4 +1,9 @@
 {
-  "updatedAt": "2026-11-22T17:35:59Z",
-  "campaigns": {}
+  "updatedAt": "2026-11-22T17:48:29.900Z",
+  "campaigns": {
+    "swamp-test": {
+      "nextDueAt": "2026-11-29T00:00:00.000Z",
+      "dueEpoch": 1
+    }
+  }
 }

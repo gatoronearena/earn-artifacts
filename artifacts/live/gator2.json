@@ -4,12 +4,12 @@
  "name": "Gator2",
  "epoch": 3,
  "provisional": true,
- "asOf": "2026-11-24T21:19:16.914Z",
+ "asOf": "2026-11-24T21:26:03.604Z",
  "window": {
   "start": "2026-11-24T19:48:15.992Z",
   "end": "2026-11-25T19:48:15.992Z"
  },
- "elapsesInMs": 80939078,
+ "elapsesInMs": 80532388,
  "reward": {
   "token": "0xd049d14a11b2d8f256edb482653f429ee82723ba",
   "symbol": "SWAMP",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:06:05.543Z",
+  "updatedAt": "2026-11-25T23:06:25.552Z",
   "campaigns": {
     "swamp-test": {
       "nextDueAt": "2026-11-29T00:00:00.000Z",
@@ -20,6 +20,22 @@
       },
       "nextDueAt": "2026-11-25T19:48:15.992Z",
       "dueEpoch": 4
+    },
+    "june": {
+      "lastBuiltEpoch": 1,
+      "lastBuiltAt": "2026-11-25T23:06:25.552Z",
+      "leaves": 383,
+      "total": "10000000000000000000000000",
+      "root": "0x220ee694fbc37a693d6197b1db6fc67e7b37dd5847d51086815338d74f421077",
+      "window": {
+        "startLabel": "2026-11-24T22:09Z",
+        "endLabel": "2026-11-25T22:09Z",
+        "startTs": 1795558176,
+        "endTs": 1795644576,
+        "mode": "backfill"
+      },
+      "nextDueAt": "2026-11-25T22:09:36.642Z",
+      "dueEpoch": 2
     }
   }
 }

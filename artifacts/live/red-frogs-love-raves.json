@@ -4,12 +4,12 @@
  "name": "Red frogs love raves",
  "epoch": 1,
  "provisional": true,
- "asOf": "2026-11-26T04:06:19.978Z",
+ "asOf": "2026-11-26T05:06:01.327Z",
  "window": {
   "start": "2026-11-24T23:31:10.301Z",
   "end": "2026-12-01T23:31:10.301Z"
  },
- "elapsesInMs": 501890323,
+ "elapsesInMs": 498308974,
  "endsAt": "2026-12-01T23:31:10.301Z",
  "reward": {
   "token": "0xa479796434c668dce1881ed1e0d88fe87aadadb8",

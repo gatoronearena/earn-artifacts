@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-11-25T23:06:25.552Z",
+  "updatedAt": "2026-11-26T20:06:04.454Z",
   "campaigns": {
     "swamp-test": {
       "nextDueAt": "2026-11-29T00:00:00.000Z",
       "dueEpoch": 1
     },
     "gator2": {
-      "lastBuiltEpoch": 3,
-      "lastBuiltAt": "2026-11-25T20:06:05.543Z",
-      "leaves": 27,
+      "lastBuiltEpoch": 4,
+      "lastBuiltAt": "2026-11-26T20:06:04.454Z",
+      "leaves": 29,
       "total": "50000000000000000000",
-      "root": "0xdfd35d5593fd3011511962dccdf87fa1e9edf0cdd151592538a0b90659db08fb",
+      "root": "0x48a891a3e1cb794dd70c1ad3bed1acc74e353cd3c40ac633a236f8f29acb3e5a",
       "window": {
-        "startLabel": "2026-11-24T19:48Z",
-        "endLabel": "2026-11-25T19:48Z",
-        "startTs": 1795549695,
-        "endTs": 1795636095,
+        "startLabel": "2026-11-25T19:48Z",
+        "endLabel": "2026-11-26T19:48Z",
+        "startTs": 1795636095,
+        "endTs": 1795722495,
         "mode": "backfill"
       },
-      "nextDueAt": "2026-11-25T19:48:15.992Z",
-      "dueEpoch": 4
+      "nextDueAt": "2026-11-26T19:48:15.992Z",
+      "dueEpoch": 5
     },
     "june": {
       "lastBuiltEpoch": 1,

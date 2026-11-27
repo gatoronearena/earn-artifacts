@@ -4,12 +4,12 @@
  "name": "$JUNE",
  "epoch": 4,
  "provisional": true,
- "asOf": "2026-11-27T23:00:37.695Z",
+ "asOf": "2026-11-27T23:15:37.152Z",
  "window": {
   "start": "2026-11-27T22:09:36.642Z",
   "end": "2026-11-28T22:09:36.642Z"
  },
- "elapsesInMs": 83338947,
+ "elapsesInMs": 82439490,
  "endsAt": "2026-11-28T22:09:36.642Z",
  "reward": {
   "token": "0x23c5c447d297a2d4efd9db0d3053431a173b49fd",

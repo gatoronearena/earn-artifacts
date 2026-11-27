@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:31:49.346Z",
+  "updatedAt": "2026-11-27T22:16:51.794Z",
   "campaigns": {
     "swamp-test": {
       "nextDueAt": "2026-11-29T00:00:00.000Z",
@@ -10,20 +10,20 @@
       "lastBuiltAt": "2026-11-25T20:06:00.000Z"
     },
     "june": {
-      "lastBuiltEpoch": 2,
-      "lastBuiltAt": "2026-11-26T22:31:49.345Z",
-      "leaves": 380,
+      "lastBuiltEpoch": 3,
+      "lastBuiltAt": "2026-11-27T22:16:51.793Z",
+      "leaves": 379,
       "total": "10000000000000000000000000",
-      "root": "0xc801154feccb5f6c5d4f91824acc45117cc1ae7756fe56c29b4e03a4053f4357",
+      "root": "0x5645d57a9e7e38f860df59a0529689a8ee675da478f724928da2ca0adb3715ee",
       "window": {
-        "startLabel": "2026-11-25T22:09Z",
-        "endLabel": "2026-11-26T22:09Z",
-        "startTs": 1795644576,
-        "endTs": 1795730976,
+        "startLabel": "2026-11-26T22:09Z",
+        "endLabel": "2026-11-27T22:09Z",
+        "startTs": 1795730976,
+        "endTs": 1795817376,
         "mode": "backfill"
       },
-      "nextDueAt": "2026-11-26T22:09:36.642Z",
-      "dueEpoch": 3
+      "nextDueAt": "2026-11-27T22:09:36.642Z",
+      "dueEpoch": 4
     }
   }
 }

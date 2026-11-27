@@ -4,12 +4,12 @@
  "name": "$JUNE bonus",
  "epoch": 1,
  "provisional": true,
- "asOf": "2026-11-27T22:31:22.439Z",
+ "asOf": "2026-11-27T22:46:50.265Z",
  "window": {
   "start": "2026-11-27T22:09:36.642Z",
   "end": "2026-11-28T22:09:36.642Z"
  },
- "elapsesInMs": 85094203,
+ "elapsesInMs": 84166377,
  "endsAt": "2026-11-28T22:09:36.642Z",
  "reward": {
   "token": "0x23c5c447d297a2d4efd9db0d3053431a173b49fd",

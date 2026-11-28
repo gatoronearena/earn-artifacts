@@ -7,7 +7,8 @@
     },
     "gator2": {
       "lastBuiltEpoch": 3,
-      "lastBuiltAt": "2026-11-25T20:06:00.000Z"
+      "lastBuiltAt": "2026-11-25T20:06:00.000Z",
+      "ipfs": "QmaMVfnQM7rLkUbxR5jjqaEpfkE3SoTftzmkhzMHMDBgwd"
     },
     "june": {
       "lastBuiltEpoch": 3,
@@ -23,7 +24,8 @@
         "mode": "backfill"
       },
       "nextDueAt": "2026-11-27T22:09:36.642Z",
-      "dueEpoch": 4
+      "dueEpoch": 4,
+      "ipfs": "Qmce1agvEEZf9AQkgE8tpJdZSSEAJPbFst1EjwSETzJs3P"
     }
   }
 }
